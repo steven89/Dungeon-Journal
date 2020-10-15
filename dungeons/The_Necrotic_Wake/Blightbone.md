@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Abilities
 
-#### **Heaving Retch**{: .bg-purple-100}
+#### **Heaving Retch**{: .bg-purple-000}
 Blightbone hurls a toxic spew at all players in a cone in front of him, inflicting 8788 Nature damage and an additional 1462 Nature damage every 2 sec for 12 sec as Blightbone spews forth up to 3 Carrion Worms.
 
 #### **Carrion Worm**
