@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+search_exclude: true
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/steven89/Dungeon-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
