@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Encounters
 
-### Blightbone
+### Blightbone - [details](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html)
 The corpulent mass of rotting flesh known as Blightbone was lovingly constructed by Surgeon Stitchflesh.
 Now the abomination is eager to be unleashed on the Temple of Courage.
 
