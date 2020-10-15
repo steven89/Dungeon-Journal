@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Blightbone
 parent: The Necrotic Wake
 nav_order: 1
 ---
