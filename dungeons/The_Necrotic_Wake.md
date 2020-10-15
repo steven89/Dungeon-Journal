@@ -15,18 +15,18 @@ nav_order: 1
 
 ### Blightbone - [details](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html)
 
-- **Overview**: Periodically, Blightbone will [Heaving Retch](#) towards a player, spewing up Carrion Worms.
-As Carrion Worms attack their target they grow larger, eventually exploding into a [Carrion Eruption](#).
+- **Overview**: Periodically, Blightbone will [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch) towards a player, spewing up Carrion Worms.
+As Carrion Worms attack their target they grow larger, eventually exploding into a [Carrion Eruption](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#carrion-eruption).
   - **Tank**:
-    - Avoid [Heaving Retch](#).
-    - [Fetid Gas](#) pacifies and silences all players standing within it.
-    - [Crunch](#) inflicts heavy damage to Blightbone's current target.
+    - Avoid [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch).
+    - [Fetid Gas](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#fetid-gas) pacifies and silences all players standing within it.
+    - [Crunch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#crunch) inflicts heavy damage to Blightbone's current target.
   - **Healer**:
-    - Position [Heaving Retch](#) to avoid hitting other players.
-    - Carrion Worms cast [Blood Gorge](#) instead of melee attacking, eventually exploding in a [Carrion Eruption](#).
+    - Position [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch) to avoid hitting other players.
+    - Carrion Worms cast [Blood Gorge](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#blood-gorge) instead of melee attacking, eventually exploding in a [Carrion Eruption](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#carrion-eruption).
   - **Damage**:
-    - Position [Heaving Retch](#) to avoid hitting other players.
-    - Carrion Worms cast [Blood Gorge](#) instead of melee attacking, eventually exploding in a [Carrion Eruption](#).
+    - Position [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch) to avoid hitting other players.
+    - Carrion Worms cast [Blood Gorge](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#blood-gorge) instead of melee attacking, eventually exploding in a [Carrion Eruption](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#carrion-eruption).
 
 ### Amarth, The Harvester
 
