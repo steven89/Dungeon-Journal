@@ -20,10 +20,10 @@ Additionally, each successful Blood Gorge causes the worm to grow in size, perma
 Upon reaching 3 applications, the worm explodes in a *Carrion Eruption*.
     - **Carrion Eruption**{: .bg-purple-000 .ability}: The Carrion Worm explodes, spraying all players with noxious goo that inflicts 3662 Nature damage every 2 sec for 30 sec.
 
-#### **Fetid Gas**{: .bg-purple-000 .ability}
+#### ![icon](https://wow.zamimg.com/images/wow/icons/large/inv_pet_diseasedsquirrel.jpg) **Fetid Gas**{: .bg-purple-000 .ability}
 Unleashes a store of pent up gas that last for up to 2 min. Standing within the area inflicts 2342 Nature damage every 2 sec and prevents all actions and spell casting.
 
-#### **Crunch**{: .bg-purple-000 .ability}
+#### ![icon](https://wow.zamimg.com/images/wow/icons/large/ability_warrior_shieldbreak.jpg) **Crunch**{: .bg-purple-000 .ability}
 Blightbone smashes his current target, inflicting 19041 Physical damage.
 
 ## Loot
