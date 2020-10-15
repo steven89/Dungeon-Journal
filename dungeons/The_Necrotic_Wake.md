@@ -20,7 +20,7 @@ nav_order: 1
 
 ## Encounters
 
-### Blightbone - [details](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html)
+### [Blightbone](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html)
 
 - **Overview**: Periodically, Blightbone will [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch) towards a player, spewing up Carrion Worms.
 As Carrion Worms attack their target they grow larger, eventually exploding into a [Carrion Eruption](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#carrion-eruption).
