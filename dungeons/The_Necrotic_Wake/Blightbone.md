@@ -11,7 +11,7 @@ The corpulent mass of rotting flesh known as Blightbone was lovingly constructed
 
 ## Abilities
 
-#### ![icon](https://wow.zamimg.com/images/wow/icons/large/spell_shadow_plaguecloud.jpg) **Heaving Retch**{: .bg-purple-000 .ability}
+#### ![icon](https://wow.zamimg.com/images/wow/icons/large/spell_shadow_plaguecloud.jpg)**Heaving Retch**{: .bg-purple-000 .ability}
 Blightbone hurls a toxic spew at all players in a cone in front of him, inflicting 8788 Nature damage and an additional 1462 Nature damage every 2 sec for 12 sec as Blightbone spews forth up to 3 Carrion Worms.
 
 #### **Carrion Worm**{: .bg-purple-000 .ability}
@@ -22,10 +22,10 @@ Additionally, each successful Blood Gorge causes the worm to grow in size, perma
 Upon reaching 3 applications, the worm explodes in a *Carrion Eruption*.
     - **Carrion Eruption**{: .bg-purple-000 .ability}: The Carrion Worm explodes, spraying all players with noxious goo that inflicts 3662 Nature damage every 2 sec for 30 sec.
 
-#### ![icon](https://wow.zamimg.com/images/wow/icons/large/inv_pet_diseasedsquirrel.jpg) **Fetid Gas**{: .bg-purple-000 .ability}
+#### ![icon](https://wow.zamimg.com/images/wow/icons/large/inv_pet_diseasedsquirrel.jpg)**Fetid Gas**{: .bg-purple-000 .ability}
 Unleashes a store of pent up gas that last for up to 2 min. Standing within the area inflicts 2342 Nature damage every 2 sec and prevents all actions and spell casting.
 
-#### ![icon](https://wow.zamimg.com/images/wow/icons/large/ability_warrior_shieldbreak.jpg) **Crunch**{: .bg-purple-000 .ability}
+#### ![icon](https://wow.zamimg.com/images/wow/icons/large/ability_warrior_shieldbreak.jpg)**Crunch**{: .bg-purple-000 .ability}
 Blightbone smashes his current target, inflicting 19041 Physical damage.
 
 ## Loot
