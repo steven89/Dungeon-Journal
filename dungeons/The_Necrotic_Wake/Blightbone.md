@@ -7,6 +7,8 @@ nav_order: 1
 
 # Blightbone
 
+The corpulent mass of rotting flesh known as Blightbone was lovingly constructed by Surgeon Stitchflesh. Now the abomination is eager to be unleashed on the Temple of Courage.
+
 ## Abilities
 
 #### ![icon](https://wow.zamimg.com/images/wow/icons/large/spell_shadow_plaguecloud.jpg) **Heaving Retch**{: .bg-purple-000 .ability}
