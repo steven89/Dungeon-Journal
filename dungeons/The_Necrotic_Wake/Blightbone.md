@@ -1,3 +1,10 @@
+---
+layout: default
+title: Buttons
+parent: The Necrotic Wake
+nav_order: 1
+---
+
 # Blightbone
 
 ## Abilities
