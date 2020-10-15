@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Necrotic Wake
+nav_order: 1
+---
+
 # The Necrotic Wake
 
 ## Entrance
