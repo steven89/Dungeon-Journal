@@ -31,7 +31,6 @@ Blightbone smashes his current target, inflicting 19041 Physical damage.
 - [Sudden Ambush](https://shadowlands.wowhead.com/item=183482/sudden-ambush)
 - [Stitchflesh's Misplaced Signet](https://shadowlands.wowhead.com/item=178736/stitchfleshs-misplaced-signet)
 - [Blight Belcher](https://shadowlands.wowhead.com/item=178735/blight-belcher)
-
 - [Engorged Worm Smasher](https://shadowlands.wowhead.com/item=178730/engorged-worm-smasher)
 - [Fused Bone Greatbelt](https://shadowlands.wowhead.com/item=178734/fused-bone-greatbelt)
 - [Viscera-Stitched Footpads](https://shadowlands.wowhead.com/item=178731/viscera-stitched-footpads)
