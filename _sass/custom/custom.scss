@@ -5,3 +5,13 @@
 .ability {
   padding: 3px 10px;
 }
+
+img + .ability {
+  margin-left: .5em;
+  padding: 5px 10px;
+}
+h4 {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
