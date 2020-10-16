@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: journal
 title: Blightbone
 parent: The Necrotic Wake
 nav_order: 1

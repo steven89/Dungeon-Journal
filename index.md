@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: journal
 title: Dungeon Journal
 nav_order: 1
 ---

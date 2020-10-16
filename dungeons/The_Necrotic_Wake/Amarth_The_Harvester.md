@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: journal
 title: Amarth, The Harvester
 parent: The Necrotic Wake
 nav_order: 2

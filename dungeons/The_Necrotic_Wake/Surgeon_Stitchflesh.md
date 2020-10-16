@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: journal
 title: Surgeon Stitchflesh
 parent: The Necrotic Wake
 nav_order: 3

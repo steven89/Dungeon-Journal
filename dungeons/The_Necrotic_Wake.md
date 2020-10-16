@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: journal
 title: The Necrotic Wake
 has_children: true
 nav_order: 2

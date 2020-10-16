@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: journal
 title: Nalthor The Rimebinder
 parent: The Necrotic Wake
 nav_order: 4
