@@ -12,7 +12,7 @@ Surgeon Stitchflesh is the mastermind behind the grisly abominations that are de
 ## Abilities
 
 
-#### **Awaken Creation**{: .bg-purple-000 .ability}*_*{: .ability-icon .role-icon .important-icon}
+#### **Awaken Creation**{: .bg-purple-000 .ability}*&nbsp;*{: .ability-icon .role-icon .important-icon}
 Stitchflesh awakens one of his monstrous creations and douses them with Festering Rot.
   - **Stitchflesh's Creation**
     - **Meat Hook**{: .bg-purple-000 .ability}: The construct hurls its meat hook through the air, pulling the first target hit to its location.
@@ -35,7 +35,7 @@ Surgeon Stitchflesh inflicts **11718 Physical damage** to his **current target**
 #### **Morbid Fixation**{: .bg-purple-000 .ability}
 Surgeon Stitchflesh **fixates on a nearby target for 8 sec**, **increasing his damage done by 100%** but **reducing movement speed by 60%**.
 
-#### **Noxious Fog**{: .bg-purple-000 .ability}*_*{: .ability-icon .role-icon .deadly-icon}
+#### **Noxious Fog**{: .bg-purple-000 .ability}*&nbsp;*{: .ability-icon .role-icon .deadly-icon}
 Surgeon Stitchflesh's work area is filled with a noxious fog that protects him from harm.
   - Inflicts **5869 Plague damage every 1 sec** to nearby enemies.
 

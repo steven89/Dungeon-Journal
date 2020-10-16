@@ -51,21 +51,21 @@ As Carrion Worms attack their target they grow larger, eventually exploding into
     - Interrupt [Frostbolt Volley](The_Necrotic_Wake/Amarth_The_Harvester.html#land-of-the-dead) to reduce incoming Frost damage.
     - Avoid being hit by [Necrotic Breath](The_Necrotic_Wake/Amarth_The_Harvester.html#necrotic-breath).
 
-### Surgeon Stitchflesh
+### [Surgeon Stitchflesh](The_Necrotic_Wake/Surgeon_Stitchflesh.html)
 
 
-- **Overview**: Surgeon Stitchflesh periodically [Summons Creations] to his aid from the safety of the [Obscuring Gas] atop his platform. Meanwhile, his constructs will assault players with [Meat Hook].
+- **Overview**: Surgeon Stitchflesh periodically [Summons Creations](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation) to his aid from the safety of the [Obscuring Gas](The_Necrotic_Wake/Surgeon_Stitchflesh.html#noxious-fog) atop his platform. Meanwhile, his constructs will assault players with [Meat Hook](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation).
   - **Tank**{: .role-icon .tank-icon}:
-    - Aim [Meat Hook] carefully to pull Surgeon Stitchflesh from his platform.
-    - Quickly engage new constructs when Surgeon Stitchflesh casts [Summon Creation].
-    - Defend cautiously against [Mutilate].
+    - Aim [Meat Hook](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation) carefully to pull Surgeon Stitchflesh from his platform.
+    - Quickly engage new constructs when Surgeon Stitchflesh casts [Summon Creation](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation).
+    - Defend cautiously against [Mutilate](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation).
   - **Healer**{: .role-icon .healer-icon}:
-    - Aim [Meat Hook] carefully to pull Surgeon Stitchflesh from his platform.
-    - Tanks will take a severe amount of damage from [Mutilate].
+    - Aim [Meat Hook](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation) carefully to pull Surgeon Stitchflesh from his platform.
+    - Tanks will take a severe amount of damage from [Mutilate](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation).
   - **Damage**{: .role-icon .dps-icon}:
-    - Aim [Meat Hook] carefully to pull Surgeon Stitchflesh from his platform.
+    - Aim [Meat Hook](The_Necrotic_Wake/Surgeon_Stitchflesh.html#awaken-creation) carefully to pull Surgeon Stitchflesh from his platform.
     - Quickly defeat Stitchflesh's creations before you are overwhelmed.
-    - Prioritize Surgeon Stitchflesh while he's in the arena before he has a chance to [Escape].
+    - Prioritize Surgeon Stitchflesh while he's in the arena before he has a chance to [Escape](The_Necrotic_Wake/Surgeon_Stitchflesh.html#escape).
 
 ### Nalthor the Rimebinder
 
