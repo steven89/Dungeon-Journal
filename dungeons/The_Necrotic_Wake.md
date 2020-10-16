@@ -2,7 +2,7 @@
 layout: default
 title: The Necrotic Wake
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 # The Necrotic Wake
@@ -20,22 +20,22 @@ nav_order: 1
 
 ## Encounters
 
-### [Blightbone](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html)
+### [Blightbone](The_Necrotic_Wake/Blightbone.html)
 
-- **Overview**: Periodically, Blightbone will [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch) towards a player, spewing up Carrion Worms.
-As Carrion Worms attack their target they grow larger, eventually exploding into a [Carrion Eruption](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#carrion-eruption).
+- **Overview**: Periodically, Blightbone will [Heaving Retch](The_Necrotic_Wake/Blightbone.html#heaving-retch) towards a player, spewing up Carrion Worms.
+As Carrion Worms attack their target they grow larger, eventually exploding into a [Carrion Eruption](The_Necrotic_Wake/Blightbone.html#carrion-eruption).
   - **Tank**:
-    - Avoid [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch).
-    - [Fetid Gas](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#fetid-gas) pacifies and silences all players standing within it.
-    - [Crunch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#crunch) inflicts heavy damage to Blightbone's current target.
+    - Avoid [Heaving Retch](The_Necrotic_Wake/Blightbone.html#heaving-retch).
+    - [Fetid Gas](The_Necrotic_Wake/Blightbone.html#fetid-gas) pacifies and silences all players standing within it.
+    - [Crunch](The_Necrotic_Wake/Blightbone.html#crunch) inflicts heavy damage to Blightbone's current target.
   - **Healer**:
-    - Position [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch) to avoid hitting other players.
-    - Carrion Worms cast [Blood Gorge](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#blood-gorge) instead of melee attacking, eventually exploding in a [Carrion Eruption](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#carrion-eruption).
+    - Position [Heaving Retch](The_Necrotic_Wake/Blightbone.html#heaving-retch) to avoid hitting other players.
+    - Carrion Worms cast [Blood Gorge](The_Necrotic_Wake/Blightbone.html#blood-gorge) instead of melee attacking, eventually exploding in a [Carrion Eruption](The_Necrotic_Wake/Blightbone.html#carrion-eruption).
   - **Damage**:
-    - Position [Heaving Retch](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#heaving-retch) to avoid hitting other players.
-    - Carrion Worms cast [Blood Gorge](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#blood-gorge) instead of melee attacking, eventually exploding in a [Carrion Eruption](https://steven89.github.io/Dungeon-Journal/dungeons/The_Necrotic_Wake/Blightbone.html#carrion-eruption).
+    - Position [Heaving Retch](The_Necrotic_Wake/Blightbone.html#heaving-retch) to avoid hitting other players.
+    - Carrion Worms cast [Blood Gorge](The_Necrotic_Wake/Blightbone.html#blood-gorge) instead of melee attacking, eventually exploding in a [Carrion Eruption](The_Necrotic_Wake/Blightbone.html#carrion-eruption).
 
-### Amarth, The Harvester
+### [Amarth, The Harvester](The_Necrotic_Wake/Amarth_The_Harvester.html)
 
 - **Overview**: Amarth raises minions from the dead to assault players during [Land of the Dead]. After a short time, he will cast [Final Harvest], destroying his minions and inflicting damage to all players if they still stand.
   - **Tank**:
@@ -50,7 +50,7 @@ As Carrion Worms attack their target they grow larger, eventually exploding into
     - Destroy Amarth's minions before he is able to cast [Final Harvest].
     - Interrupt [Frostbolt Volley] to reduce incoming Frost damage.
     - Avoid being hit by [Necrotic Breath].
-    
+
 ### Surgeon Stitchflesh
 
 
