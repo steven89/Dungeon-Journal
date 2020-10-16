@@ -27,3 +27,68 @@ h4 {
 img[alt=ability-icon] {
   width: 35px;
 }
+
+.role-icon::before {
+  content: '';
+  background: url(http://wow.zamimg.com/images/wow/journal/ejiconsprite.png) no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: -10%;
+  margin-right: .5rem;
+}
+
+.role-icon.tank-icon::before {
+  background-position: -10px -123px;
+}
+
+.role-icon.healer-icon::before {
+  background-position: -10px -195px;
+}
+
+.role-icon.dps-icon::before {
+  background-position: -10px -159px;
+}
+
+.role-icon.important-icon::before {
+  background-position: -10px -85px;
+  height: 17px;
+}
+
+.role-icon.interruptible-icon::before {
+  background-position: -10px -231px;
+}
+
+.role-icon.magic-icon::before {
+  background-position: -10px -270px;
+}
+
+.role-icon.disease-icon::before {
+  background-position: -11px -382px;
+}
+
+.role-icon.deadly-icon::before {
+  background-position: -11px -47px;
+  width: 17px;
+}
+
+.role-icon.poison-icon::before {
+  background-position: -10px -345px;
+}
+
+.role-icon.enrage-icon::before {
+  background-position: -10px -419px;
+}
+
+.role-icon.curse-icon::before {
+  background-position: -10px -307px;
+}
+
+.role-icon.heroic-icon::before {
+  background-position: -10px -10px;
+}
+
+.ability-icon {
+  color: transparent;
+  margin-left: .5em;
+}
