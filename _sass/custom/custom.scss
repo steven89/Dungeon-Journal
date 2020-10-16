@@ -1,3 +1,7 @@
+::selection {
+  background: #998aee;
+}
+
 [class^=bg-purple-] {
   color: #fff;
 }
@@ -24,8 +28,13 @@ h4 {
   align-items: center;
 }
 
-img[alt=ability-icon] {
+img[alt^=ability-icon] {
   width: 35px;
+}
+
+img[alt=ability-icon-mini] {
+  width: 25px;
+  vertical-align: middle;
 }
 
 .role-icon::before {
@@ -91,4 +100,10 @@ img[alt=ability-icon] {
 .ability-icon {
   color: transparent;
   margin-left: .5em;
+}
+
+.mythic-mode {
+  @extend .bg-yellow-300;
+  padding: 3px 10px;
+  color: #27262b;
 }

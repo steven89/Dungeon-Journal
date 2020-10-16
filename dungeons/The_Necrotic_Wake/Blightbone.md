@@ -16,10 +16,10 @@ Blightbone hurls a toxic spew at **all players in a cone in front of him**, infl
 
 #### **Carrion Worm**{: .bg-purple-000 .ability}
 Carrion Worms hunger for blood, searching out random players to feast upon.
-  - **In Mythic difficulty**, *Carrion Worms* now erupt into a pool of *Fetid Gas* upon dying.
+  - **Mythic Mode**{: .mythic-mode} [Carrion Worms](#carrion-worm) now erupt into a pool of [Fetid Gas](#fetid-gas) upon dying.
   - **Blood Gorge**{: .bg-purple-000 .ability}: The Carrion Worm bites the target, inflicting **4394 Physical damage**.
 Additionally, each successful Blood Gorge causes the worm to grow in size, permanently **increasing its Physical damage done by 50%**.
-Upon reaching 3 applications, the worm explodes in a *Carrion Eruption*.
+Upon reaching 3 applications, the worm explodes in a [Carrion Eruption](#carrion-worm).
     - **Carrion Eruption**{: .bg-purple-000 .ability}: The Carrion Worm explodes, spraying **all players** with noxious goo that inflicts **3662 Nature damage every 2 sec for 30 sec**.
 
 #### ![ability-icon](https://wow.zamimg.com/images/wow/icons/large/inv_pet_diseasedsquirrel.jpg)**Fetid Gas**{: .bg-purple-000 .ability}

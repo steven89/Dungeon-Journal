@@ -67,19 +67,19 @@ As Carrion Worms attack their target they grow larger, eventually exploding into
     - Quickly defeat Stitchflesh's creations before you are overwhelmed.
     - Prioritize Surgeon Stitchflesh while he's in the arena before he has a chance to [Escape](The_Necrotic_Wake/Surgeon_Stitchflesh.html#escape).
 
-### Nalthor the Rimebinder
+### [Nalthor The Rimebinder](The_Necrotic_Wake/Nalthor_The_Rimebinder.html)
 
 
 - **Overview**: Upon reaching 100 Energy, Nalthor the Rimebinder banishes a player to the lower reaches of Zolramus. Players banished in such a fashion must negotiate a frozen gauntlet to rejoin their allies and continue their assault on Nalthor.
   - **Tank**{: .role-icon .tank-icon}:
-    - Avoid [Comet Storm].
-    - [Frozen Binds] will chain its effect to nearby allies when it is removed.
+    - Avoid [Comet Storm](The_Necrotic_Wake/Nalthor_The_Rimebinder.html#comet-storm).
+    - [Frozen Binds](The_Necrotic_Wake/Nalthor_The_Rimebinder.html#frozen-binds) will chain its effect to nearby allies when it is removed.
   - **Healer**{: .role-icon .healer-icon}:
-    - [Frozen Binds] will chain its effect to nearby allies when it is removed.
-    - Dispel [Frozen Binds].
+    - [Frozen Binds](The_Necrotic_Wake/Nalthor_The_Rimebinder.html#frozen-binds) will chain its effect to nearby allies when it is removed.
+    - Dispel [Frozen Binds](The_Necrotic_Wake/Nalthor_The_Rimebinder.html#frozen-binds).
   - **Damage**{: .role-icon .dps-icon}:
-    - [Frozen Binds] will chain its effect to nearby allies when it is removed.
-    - During [Dark Exile] slay the Zolramus Siphoner to free the bound kyrian and return to your allies.
+    - [Frozen Binds](The_Necrotic_Wake/Nalthor_The_Rimebinder.html#frozen-binds) will chain its effect to nearby allies when it is removed.
+    - During [Dark Exile](The_Necrotic_Wake/Nalthor_The_Rimebinder.html#dark-exile) slay the Zolramus Siphoner to free the bound kyrian and return to your allies.
 
 
 

@@ -24,13 +24,13 @@ Amarth oversees the harvesting of corpses from atop the undead monstrosity Bonef
 #### ![ability-icon](https://wow.zamimg.com/images/wow/icons/large/spell_necro_deathlyecho.jpg)**Final Harvest**{: .bg-purple-000 .ability}*&nbsp;*{: .ability-icon .role-icon .important-icon}
 Amarth harvests the bodies of his minions, destroying them.
 If the minion still stands, it **explodes and inflicts 40 damage to all players**. Otherwise its corpse explodes, inflicting **40 damage only to players within 8 yards**.
-  - In **Mythic Difficulty**, Amarth gains applications of Tortured Echoes for each skeleton or player killed.
+  - **Mythic Mode**{: .mythic-mode} Amarth gains applications of Tortured Echoes for each skeleton or player killed.
   - **Tortured Echoes**{: .bg-purple-000 .ability}: Amarth harvests power from the deaths of enemies and allies alike. Each application inflicts **176 Shadow damage to all enemies every 3 sec**.
   This effect stacks. (Challenge)
 
 #### ![ability-icon](https://wow.zamimg.com/images/wow/icons/large/spell_necro_inevitableend.jpg)**Necrotic Breath**{: .bg-purple-000 .ability}
 Bonefang spews forth necrotic spittle, inflicting **15 Shadow damage every 0.5 sec**. to enemies caught in the breath and **reducing healing received by 50%**.
-  - In **Mythic Difficulty**, passing through Necrotic Breath applies Necrotic Ichor.
+  - **Mythic Mode**{: .mythic-mode} Passing through Necrotic Breath applies Necrotic Ichor.
   - **Necrotic Ichor**{: .bg-purple-000 .ability}: Lingering ichor from Necrotic Breath inflicts **1465 Shadow damage every 1 sec** and **reduces healing received by 30% for 10 sec**. (Challenge)
 
 #### ![ability-icon](https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholyfrenzy.jpg)**Unholy Frenzy**{: .bg-purple-000 .ability}*&nbsp;*{: .ability-icon .role-icon .enrage-icon}*&nbsp;*{: .ability-icon .role-icon .tank-icon}
