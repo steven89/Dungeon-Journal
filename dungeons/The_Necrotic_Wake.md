@@ -37,19 +37,19 @@ As Carrion Worms attack their target they grow larger, eventually exploding into
 
 ### [Amarth, The Harvester](The_Necrotic_Wake/Amarth_The_Harvester.html)
 
-- **Overview**: Amarth raises minions from the dead to assault players during [Land of the Dead]. After a short time, he will cast [Final Harvest], destroying his minions and inflicting damage to all players if they still stand.
+- **Overview**: Amarth raises minions from the dead to assault players during [Land of the Dead](The_Necrotic_Wake/Amarth_The_Harvester.html#land-of-the-dead). After a short time, he will cast [Final Harvest](The_Necrotic_Wake/Amarth_The_Harvester.html#final-harvest), destroying his minions and inflicting damage to all players if they still stand.
   - **Tank**:
-    - Destroy Amarth's minions before he is able to cast [Final Harvest].
-    - Interrupt [Frostbolt Volley] to reduce incoming Frost damage.
-    - Defend carefully against Bonefang's attacks during [Unholy Frenzy].
+    - Destroy Amarth's minions before he is able to cast [Final Harvest](The_Necrotic_Wake/Amarth_The_Harvester.html#final-harvest).
+    - Interrupt [Frostbolt Volley](The_Necrotic_Wake/Amarth_The_Harvester.html#land-of-the-dead) to reduce incoming Frost damage.
+    - Defend carefully against Bonefang's attacks during [Unholy Frenzy](The_Necrotic_Wake/Amarth_The_Harvester.html#unholy-frenzy).
   - **Healer**:
-    - Tanks will take a severe amount of damage during [Unholy Frenzy].
-    - Interrupt [Frostbolt Volley] to reduce incoming Frost damage.
-    - Players hit by [Necrotic Breath] will take reduced healing.
+    - Tanks will take a severe amount of damage during [Unholy Frenzy](The_Necrotic_Wake/Amarth_The_Harvester.html#unholy-frenzy).
+    - Interrupt [Frostbolt Volley](The_Necrotic_Wake/Amarth_The_Harvester.html#land-of-the-dead) to reduce incoming Frost damage.
+    - Players hit by [Necrotic Breath](The_Necrotic_Wake/Amarth_The_Harvester.html#necrotic-breath) will take reduced healing.
   - **Damage**:
-    - Destroy Amarth's minions before he is able to cast [Final Harvest].
-    - Interrupt [Frostbolt Volley] to reduce incoming Frost damage.
-    - Avoid being hit by [Necrotic Breath].
+    - Destroy Amarth's minions before he is able to cast [Final Harvest](The_Necrotic_Wake/Amarth_The_Harvester.html#final-harvest).
+    - Interrupt [Frostbolt Volley](The_Necrotic_Wake/Amarth_The_Harvester.html#land-of-the-dead) to reduce incoming Frost damage.
+    - Avoid being hit by [Necrotic Breath](The_Necrotic_Wake/Amarth_The_Harvester.html#necrotic-breath).
 
 ### Surgeon Stitchflesh
 
